@@ -1,0 +1,30 @@
+# Sanal ortam
+venv/
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+
+# Django
+db.sqlite3
+media/
+static_collected/
+
+# Pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Sitemaps
+*.xml
+
+# Other
+*~
+*.swp
+*.bak
+*.log
+*.tmp
